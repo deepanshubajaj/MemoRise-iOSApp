@@ -1,5 +1,3 @@
-# MemoRise_iOSApp
-MemoRise_iOSApp
 <h1 align="center">📝 MemoRise - iOS App</h1>
 
 <p align="center">
@@ -19,7 +17,7 @@ MemoRise_iOSApp
 
 ---
 
-## ✨ Features
+## ✨ Features:
 
 - ✅ **Create & Manage Reminders**  
   Add, edit, and delete custom reminders with titles, notes, and completion status.
@@ -38,7 +36,7 @@ MemoRise_iOSApp
 
 ---
 
-## 📦 Requirements
+## 📦 Requirements:
 
 - iOS 16.0+
 - Xcode 14+
@@ -46,7 +44,7 @@ MemoRise_iOSApp
 
 ---
 
-## ⛓ Project Structure
+## ⛓ Project Structure:
 
     MemoRise               # Root Group
     .
@@ -293,7 +291,7 @@ Here’s a short video showcasing the app's functionality in Dark & Bright Mode:
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing:
 
 Thank you for your interest in contributing to this project!  
 I welcome contributions from the community.
@@ -304,7 +302,7 @@ I welcome contributions from the community.
 
 ---
 
-### 📌 How to Contribute
+### 📌 How to Contribute:
 
 To contribute:
 
@@ -329,7 +327,7 @@ To contribute:
 
 ---
 
-## 📃 License
+## 📃 License:
 
 This project is licensed under the [Apache-2.0 License](./LICENSE).  
 You are free to use this project for personal, educational, or commercial purposes — just make sure to provide proper attribution.
