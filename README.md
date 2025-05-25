@@ -281,6 +281,8 @@ Here’s a short video showcasing the app's functionality in Dark & Bright Mode:
   <img src="ProjectOutputs/WorkingVideo/WorkingVideoB.gif" alt="Working App 2 - Bright Mode" width="30%" />
 </p>
 
+
+
 ➤ <a href="ProjectOutputs/WorkingVideo/SplashScreenDVideo.MP4">🎬 Watch Splash Screen Video - [Dark Mode]</a>
 
 ➤ <a href="ProjectOutputs/WorkingVideo/SplashScreenBVideo.MP4">🎬 Watch Splash Screen Video - [Bright Mode]</a>
