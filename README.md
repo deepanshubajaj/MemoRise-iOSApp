@@ -277,8 +277,8 @@ To run this project locally:
 Here’s a short video showcasing the app's functionality in Dark & Bright Mode:
 
 <p align="center">
-  <img src="ProjectOutputs/WorkingVideo/WorkingVideo1.gif" alt="Working App 1 - Dark Mode" width="30%" />
-  <img src="ProjectOutputs/WorkingVideo/WorkingVideo2.gif" alt="Working App 2 - Bright Mode" width="30%" />
+  <img src="ProjectOutputs/WorkingVideo/WorkingVideoD.gif" alt="Working App 1 - Dark Mode" width="30%" />
+  <img src="ProjectOutputs/WorkingVideo/WorkingVideoB.gif" alt="Working App 2 - Bright Mode" width="30%" />
 </p>
 
 ➤ <a href="ProjectOutputs/WorkingVideo/SplashScreenDVideo.MP4">🎬 Watch Splash Screen Video - [Dark Mode]</a>
